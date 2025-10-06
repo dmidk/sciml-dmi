@@ -281,3 +281,20 @@
   email: maf@dmi.dk
   social:
     github: mafdmi
+- name: Simon Kamuk Christiansen
+  email: skc@dmi.dk
+  social:
+    github: SimonKamuk
+  techniques:
+    - Deep operator networks
+    - Physics informed neural networks
+    - Graph neural networks
+    - Unsupervised learning
+    - Convolutional neural networks
+    - Recurrent neural networks
+    - Transformers
+  applications:
+    - Ml based weather forecasts
+    - Nowcasting with ML
+    - Simulations governed by differential equations
+    - Time series classification and regression
